@@ -1,5 +1,3 @@
 <?php
-	
-	echo "HELLO WORLD!";
-
+	echo "My name is Danica";
 ?>
